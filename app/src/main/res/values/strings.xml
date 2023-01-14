@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ABC Test</string>
+    <string name="enter_the_phone">Enter the phone</string>
+    <string name="access_by_phone">access by phone</string>
+    <string name="we_ll_send_you_a_code_it_help_us_keep_your_n_account_secure">We’ll send you a code, it help us keep your \n account secure.</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
 </resources>
